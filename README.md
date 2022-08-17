@@ -10,7 +10,11 @@ The 5 different varieties of Rice are:
 4. Jasmine
 5. Karacadag
 
+#### Dataset Link: 
+
 
 ## 2. Music Generation
 
 Used MIDI dataset to train model using RNN to generate piano music from different notes, pitches, steps of learnt from the training dataset
+
+#### Dataset Link: 
